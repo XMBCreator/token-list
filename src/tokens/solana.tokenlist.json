@@ -90802,7 +90802,13 @@
       "logoURI": "https://raw.githubusercontent.com/jw4gg/Crypto/main/logo.png",
       "tags": [
         "social-token"
-      ]
+        "meme",
+        "Discret_project",
+        "fish_token"
+      ],
+      "extensions": {
+        "website": "https://www.xmbmining.com/xmbcoin"
+      }
     },
     {
       "chainId": 101,
