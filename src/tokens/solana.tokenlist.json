@@ -90809,11 +90809,17 @@
       "address": "B97yZiSWsRGsbYGa1tCPZzL3K6ggM36pQjzCHg1STsym",
       "symbol": "XMB",
       "name": "XMBCoin",
-      "decimals": 0,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/XMBCreator/crypto/main/xmbcoin.png",
       "tags": [
-        "social-token"
-      ]
+        "meme",
+        "social-token",
+        "Discret_project",
+        "fish_token"
+      ],
+      "extensions": {
+        "website": "https://www.xmbmining.com/xmbcoin"
+      }
     },
     {
       "chainId": 101,
