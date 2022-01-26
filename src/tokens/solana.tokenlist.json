@@ -90819,7 +90819,10 @@
       "logoURI": "https://raw.githubusercontent.com/XMBCreator/crypto/main/xmbcoin.png",
       "tags": [
         "social-token"
-      ]
+      ],
+      "extensions": {
+        "website": "https://www.xmbmining.com/xmbcoin"
+      }
     },
     {
       "chainId": 101,
